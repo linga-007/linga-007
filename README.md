@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Social Media Tracker**
 
-- 🌱 I’m currently learning **MERN Stack , Competitive Programming**
+- 🌱 I’m currently learning **MERN Stack , Competitive Programming , Data Science**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Python, JAVAFX**
+- 💬 Ask me about **Python , Machine Learning , Data Science**
 
 - 📫 How to reach me **lingesh480500@gmail.com**
 
