@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Linga</h1>
-[![An image of @linga007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/linga007)](https://holopin.io/@linga007)
+
 <h3 align="center">A passionate Developer on AI , ML , Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linga-007&label=Profile%20views&color=0e75b6&style=flat" alt="linga-007" /> </p>
