@@ -30,4 +30,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=linga-007&theme=dark)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?linga-007=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?linga-007=ryo-ma&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
