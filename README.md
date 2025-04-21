@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linga-007&label=Profile%20views&color=0e75b6&style=flat" alt="linga-007" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack , Competitive Programming , Data Science, Machine Learning**
+- 🌱 I’m currently learning **Full Stack , Competitive Programming , Data Science, Machine Learning**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Python , Machine Learning , Data Science**
+- 💬 Ask me about **Python , Data Science**
 
 - 📫 How to reach me **lingesh480500@gmail.com**
 
